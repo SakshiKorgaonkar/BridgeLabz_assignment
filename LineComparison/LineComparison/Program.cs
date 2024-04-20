@@ -32,11 +32,11 @@ internal class LineComparison
     }
     void Compare(double a,double b)
     {
-        if(a.Equals(b))
+        if(a.CompareTo(b) == 0)
         {
             Console.WriteLine("The lengths are equal");
         }
-        else if (b > a)
+        else if (a.CompareTo(b)< 1)
         {
             Console.WriteLine("Length of second line is greater than first");
         }
