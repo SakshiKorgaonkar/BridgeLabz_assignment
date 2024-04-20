@@ -12,3 +12,4 @@ C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_assignment\Line
 C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_assignment\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.pdb
 C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_assignment\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.genruntimeconfig.cache
 C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_assignment\LineComparison\LineComparison\obj\Debug\net6.0\ref\LineComparison.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_assignment\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.sourcelink.json
